@@ -1,0 +1,14 @@
+Esse são as 10 palavras que mais se repetem no arquivo-texto "biblia-em-txt"
+
+1 - ('e', 33027)
+2 - ('o', 25358)
+3 - ('de', 24848)
+4 - ('a', 24671)
+5 - ('que', 20458)
+6 - ('os', 13441)
+7 - ('do', 10179)
+8 - ('para', 8421)
+9 - ('não', 6991)
+10- ('da', 6692)
+
+PS: Como o arquivo-texto usado foi diferente do exemplo dado pelo professor, ele também será uppado no repositório para eventual consulta.
