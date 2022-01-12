@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/63620556/149045194-f46fea4d-0b62-476e-a4dc-c34f3da29cf0.png" width="790" height="551">
+
+
 # Desafio-Dataproc-DIO
 
 ## Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
